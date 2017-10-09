@@ -15,10 +15,7 @@ Then choose “External Web Tools” under Projects and Solutions from the left 
 Select Empty or MVC template
 
 ### Step # 5 – Add the Angular2 required files
-app folder -> app.component.ts, app.module.ts, main.ts
-Systemjs.Config.js
-package.json
-tsconfig.json
+app folder -> app.component.ts, app.module.ts, main.ts, Systemjs.Config.js, package.json, tsconfig.json 
 
 ### Step # 6 – Add Angular 2 references 
 Now in this step, we will add all the Angular 2 references into our project.
